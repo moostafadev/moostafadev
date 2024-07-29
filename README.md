@@ -30,9 +30,9 @@
 
 ###
 
+<link rel="stylesheet" href="style.css">
+
 <div class="center-flex-gap">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moostafadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph" />
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" />
 </div>
-
-<link rel="stylesheet" href="style.css">
