@@ -32,6 +32,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-ahmed-1089132b4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
